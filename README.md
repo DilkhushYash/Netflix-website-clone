@@ -1,1 +1,2 @@
-
+I learn that skill from Sigma web development course by code with harry youtube channel
+This website is responsive also...
